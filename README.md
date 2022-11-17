@@ -23,8 +23,13 @@ streamlit run main_app.py
 
 ## Screenshots
 
-![screenshots](https://user-images.githubusercontent.com/79044809/202425984-99e95512-7b22-4018-b6dc-e0ddca39eea0.png")
+![Screenshots](https://user-images.githubusercontent.com/79044809/202427471-19e32865-5fd9-4100-88ec-bee995c41561.png)
 
-![screenshots](https://user-images.githubusercontent.com/79044809/202425403-b71a6edf-13e8-4e39-810f-26856f0b4779.png)
+![Screenshots](https://user-images.githubusercontent.com/79044809/202427115-5217bcef-fb21-4152-97d0-a9e401d73865.png)
+
+![Screenshots](https://user-images.githubusercontent.com/79044809/202427530-215f98c9-e6f9-46e8-9468-a0d28aa1a917.png)
+
+
+
 
 
